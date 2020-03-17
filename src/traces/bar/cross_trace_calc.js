@@ -37,8 +37,7 @@ function crossTraceCalc(gd, plotinfo) {
     var calcTracesHorz = [];
     var calcTracesVert = [];
 
-    var i;
-    for(i = 0; i < fullTraces.length; i++) {
+    for(var i = 0; i < fullTraces.length; i++) {
         var fullTrace = fullTraces[i];
         if(
             fullTrace.visible === true &&
@@ -52,12 +51,13 @@ function crossTraceCalc(gd, plotinfo) {
                 calcTracesVert.push(calcTraces[i]);
             }
 
-            // Scope by groups
+            // Harmonize start/end (ie. ph0/ph1) values of shared bins
             if(fullTrace._computePh) {
                 var trace = fullTraces[i];
                 var mainData = trace.orientation === 'h' ? 'y' : 'x';
-                var groupName = trace['_' + mainData + 'bingroup'];
-                var groupTraces = fullTraces.filter(function(t) { return t['_' + mainData + 'bingroup'] === groupName});
+                var bingroup = '_' + mainData + 'bingroup';
+                var groupName = trace[bingroup];
+                var groupTraces = fullTraces.filter(function(t) { return t[bingroup] === groupName});
                 var leftGap = groupTraces.map(function(t) {return t._leftGap;});
                 leftGap = aggNums(Math.min, null, leftGap);
                 var rightGap = groupTraces.map(function(t) {return t._rightGap;});
@@ -72,9 +72,9 @@ function crossTraceCalc(gd, plotinfo) {
                 var roundFn = getBinSpanLabelRound(leftGap, rightGap, binEdges, pa, calendar);
                 var cd = gd.calcdata[i];
                 for(var j = 0; j < cd.length; j++) {
-                    var cdi = cd[j];
-                    cdi.ph0 = roundFn(binEdges[j]);
-                    cdi.ph1 = roundFn(binEdges[j + 1], true);
+                    var cdj = cd[j];
+                    cdj.ph0 = roundFn(binEdges[j]);
+                    cdj.ph1 = roundFn(binEdges[j + 1], true);
                 }
             }
         }
