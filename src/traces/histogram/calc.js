@@ -129,6 +129,9 @@ function calc(gd, trace) {
     if(!uniqueValsPerBin) {
         roundFn = getBinSpanLabelRound(leftGap, rightGap, binEdges, pa, calendar);
     }
+    trace._leftGap = leftGap;
+    trace._rightGap = rightGap;
+    trace._binEdges = binEdges;
 
     // average and/or normalize the data, if needed
     if(isAvg) total = doAvg(size, counts);
@@ -175,6 +178,8 @@ function calc(gd, trace) {
                 } else {
                     cdi.ph0 = roundFn(binEdges[i]);
                     cdi.ph1 = roundFn(binEdges[i + 1], true);
+                    // Set flag to handle the recalculation of ph0 and ph1 in crossTraceCalc
+                    trace._computePh = true;
                 }
             }
             cd.push(cdi);

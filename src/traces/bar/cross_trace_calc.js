@@ -17,6 +17,9 @@ var Axes = require('../../plots/cartesian/axes');
 var getAxisGroup = require('../../plots/cartesian/axis_ids').getAxisGroup;
 var Sieve = require('./sieve.js');
 
+var getBinSpanLabelRound = require('../histogram/bin_label_vals');
+var aggNums = require('../../lib').aggNums;
+
 /*
  * Bar chart stacking/grouping positioning and autoscaling calculations
  * for each direction separately calculate the ranges and positions
@@ -34,7 +37,8 @@ function crossTraceCalc(gd, plotinfo) {
     var calcTracesHorz = [];
     var calcTracesVert = [];
 
-    for(var i = 0; i < fullTraces.length; i++) {
+    var i;
+    for(i = 0; i < fullTraces.length; i++) {
         var fullTrace = fullTraces[i];
         if(
             fullTrace.visible === true &&
@@ -46,6 +50,32 @@ function crossTraceCalc(gd, plotinfo) {
                 calcTracesHorz.push(calcTraces[i]);
             } else {
                 calcTracesVert.push(calcTraces[i]);
+            }
+
+            // Scope by groups
+            if(fullTrace._computePh) {
+                var trace = fullTraces[i];
+                var mainData = trace.orientation === 'h' ? 'y' : 'x';
+                var groupName = trace['_' + mainData + 'bingroup'];
+                var groupTraces = fullTraces.filter(function(t) { return t['_' + mainData + 'bingroup'] === groupName});
+                var leftGap = groupTraces.map(function(t) {return t._leftGap;});
+                leftGap = aggNums(Math.min, null, leftGap);
+                var rightGap = groupTraces.map(function(t) {return t._rightGap;});
+                rightGap = aggNums(Math.min, null, rightGap);
+
+                // Return early if the aggregated left and right gaps are the same
+                if(leftGap === trace._leftGap && rightGap === trace._rightGap) continue;
+
+                var pa = Axes.getFromId(gd, trace.orientation === 'h' ? trace.yaxis : trace.xaxis);
+                var calendar = trace[mainData + 'calendar'];
+                var binEdges = trace._binEdges;
+                var roundFn = getBinSpanLabelRound(leftGap, rightGap, binEdges, pa, calendar);
+                var cd = gd.calcdata[i];
+                for(var j = 0; j < cd.length; j++) {
+                    var cdi = cd[j];
+                    cdi.ph0 = roundFn(binEdges[j]);
+                    cdi.ph1 = roundFn(binEdges[j + 1], true);
+                }
             }
         }
     }

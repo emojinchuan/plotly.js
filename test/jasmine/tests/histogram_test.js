@@ -861,6 +861,22 @@ describe('Test histogram', function() {
             expect(calcPositions(trace2, [trace1])).toEqual([5, 7]);
         });
 
+        it('harmonizes start/end values of shared bin displayed in hover labels', function(done) {
+            var mock = require('@mocks/histogram_overlay-bingroup');
+            var gd = createGraphDiv();
+            Plotly.newPlot(gd, mock)
+                .then(function(gd) {
+                    destroyGraphDiv();
+                    var cd = gd.calcdata;
+                    for(var i = 0; i < cd[0].length && i < cd[1].length; i++) {
+                        expect(cd[0][i].ph0).toBe(cd[1][i].ph0);
+                        expect(cd[0][i].ph1).toBe(cd[1][i].ph1);
+                    }
+                })
+                .catch(failTest)
+                .then(done);
+        });
+
         it('autobins all data as one', function() {
             // all integers, so all autobins should get shifted to start 0.5 lower
             // than they otherwise would.
