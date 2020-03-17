@@ -57,6 +57,7 @@ function crossTraceCalc(gd, plotinfo) {
                 var mainData = trace.orientation === 'h' ? 'y' : 'x';
                 var bingroup = '_' + mainData + 'bingroup';
                 var groupName = trace[bingroup];
+                if(!groupName) continue;
                 var groupTraces = fullTraces.filter(function(t) { return t[bingroup] === groupName});
                 var leftGap = groupTraces.map(function(t) {return t._leftGap;});
                 leftGap = aggNums(Math.min, null, leftGap);
