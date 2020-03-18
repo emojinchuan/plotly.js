@@ -180,6 +180,7 @@ function calc(gd, trace) {
                     cdi.ph1 = roundFn(binEdges[i + 1], true);
                     // Set flag to trigger the recalculation of ph0 and ph1 in crossTraceCalc if needed
                     trace._computePh = true;
+                    cdi._i = i;
                 }
             }
             cd.push(cdi);

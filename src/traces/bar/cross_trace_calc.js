@@ -73,8 +73,8 @@ function crossTraceCalc(gd, plotinfo) {
                 var cd = gd.calcdata[i];
                 for(var j = 0; j < cd.length; j++) {
                     var cdj = cd[j];
-                    cdj.ph0 = roundFn(binEdges[j]);
-                    cdj.ph1 = roundFn(binEdges[j + 1], true);
+                    cdj.ph0 = roundFn(binEdges[cdj._i]);
+                    cdj.ph1 = roundFn(binEdges[cdj._i + 1], true);
                 }
             }
         }
