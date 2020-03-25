@@ -21,9 +21,9 @@
     "layout": {
         "title": "Click to enter Plot title",
         "titlefont": {
-            "family": "",
-            "size": 0,
-            "color": ""
+            
+            
+            
         },
         "font": {
             "family": "\"Open sans\", verdana, arial, sans-serif",
@@ -37,9 +37,9 @@
         "xaxis": {
             "title": "Click to enter X axis title",
             "titlefont": {
-                "family": "",
-                "size": 0,
-                "color": ""
+                
+                
+                
             },
             "range": [
                 0.9421558530724339,
@@ -66,9 +66,9 @@
             "tickcolor": "#444",
             "tickangle": "auto",
             "tickfont": {
-                "family": "",
-                "size": 0,
-                "color": ""
+                
+                
+                
             },
             "exponentformat": "B",
             "showexponent": "all",
@@ -86,9 +86,9 @@
         "yaxis": {
             "title": "Click to enter Y axis title",
             "titlefont": {
-                "family": "",
-                "size": 0,
-                "color": ""
+                
+                
+                
             },
             "range": [
                 0.9380292532717475,
@@ -115,9 +115,9 @@
             "tickcolor": "#444",
             "tickangle": "auto",
             "tickfont": {
-                "family": "",
-                "size": 0,
-                "color": ""
+                
+                
+                
             },
             "exponentformat": "B",
             "showexponent": "all",
@@ -137,9 +137,9 @@
             "y": 1,
             "traceorder": "normal",
             "font": {
-                "family": "",
-                "size": 0,
-                "color": ""
+                
+                
+                
             },
             "bgcolor": "#fff",
             "bordercolor": "#444",

@@ -224,8 +224,8 @@
     "layout": {
         "title": "US Population<br>Area Plot", 
         "titlefont": {
-            "color": "", 
-            "family": "", 
+             
+             
             "size": 0
         }, 
         "font": {
@@ -240,8 +240,8 @@
         "xaxis": {
             "title": "Year", 
             "titlefont": {
-                "color": "", 
-                "family": "", 
+                 
+                 
                 "size": 0
             }, 
             "range": [
@@ -268,9 +268,9 @@
             "tickcolor": "#000", 
             "tickangle": 0, 
             "tickfont": {
-                "family": "", 
-                "size": 0, 
-                "color": ""
+                 
+                 
+                
             }, 
             "exponentformat": "e", 
             "showexponent": "all", 
@@ -289,8 +289,8 @@
         "yaxis": {
             "title": "Population", 
             "titlefont": {
-                "color": "", 
-                "family": "", 
+                 
+                 
                 "size": 0
             }, 
             "range": [
@@ -317,9 +317,9 @@
             "tickcolor": "#000", 
             "tickangle": 0, 
             "tickfont": {
-                "family": "", 
-                "size": 0, 
-                "color": ""
+                 
+                 
+                
             }, 
             "exponentformat": "e", 
             "showexponent": "all", 
@@ -340,9 +340,9 @@
             "y": 1.0178571428571428, 
             "traceorder": "normal", 
             "font": {
-                "family": "", 
+                 
                 "size": 14, 
-                "color": ""
+                
             }, 
             "bgcolor": "rgba(255, 255, 255, 0)", 
             "bordercolor": "rgba(255, 255, 255, 0)", 

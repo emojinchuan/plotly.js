@@ -683,8 +683,8 @@
     "layout": {
         "title": "Life Expectancy vs GDP<br>Bubble Chart",
         "titlefont": {
-            "color": "",
-            "family": "",
+            
+            
             "size": 0
         },
         "font": {
@@ -699,8 +699,8 @@
         "xaxis": {
             "title": "GDP per capita (2000 dollars)",
             "titlefont": {
-                "color": "",
-                "family": "",
+                
+                
                 "size": 0
             },
             "range": [
@@ -727,9 +727,9 @@
             "tickcolor": "#000",
             "tickangle": 0,
             "tickfont": {
-                "family": "",
-                "size": 0,
-                "color": ""
+                
+                
+                
             },
             "exponentformat": "power",
             "showexponent": "all",
@@ -748,8 +748,8 @@
         "yaxis": {
             "title": "Life Expectancy (years)",
             "titlefont": {
-                "color": "",
-                "family": "",
+                
+                
                 "size": 0
             },
             "range": [
@@ -776,9 +776,9 @@
             "tickcolor": "#000",
             "tickangle": 0,
             "tickfont": {
-                "family": "",
-                "size": 0,
-                "color": ""
+                
+                
+                
             },
             "exponentformat": "e",
             "showexponent": "all",
@@ -797,9 +797,9 @@
         "legend": {
             "traceorder": "normal",
             "font": {
-                "family": "",
-                "size": 0,
-                "color": ""
+                
+                
+                
             },
             "bgcolor": "#fff",
             "bordercolor": "#000",
@@ -813,7 +813,7 @@
                 "yref": "paper",
                 "text": "2007",
                 "font": {
-                    "family": "",
+                    
                     "size": 36,
                     "color": "rgb(23, 190, 207)"
                 },

@@ -1013,8 +1013,8 @@
     "layout": {
         "title": "Datetime Decay", 
         "titlefont": {
-            "color": "", 
-            "family": "", 
+             
+             
             "size": 0
         }, 
         "font": {
@@ -1028,8 +1028,8 @@
         "xaxis": {
             "title": "Click to enter X axis title", 
             "titlefont": {
-                "color": "", 
-                "family": "", 
+                 
+                 
                 "size": 0
             }, 
             "range": [
@@ -1056,9 +1056,9 @@
             "tickcolor": "#444", 
             "tickangle": "auto", 
             "tickfont": {
-                "family": "", 
-                "size": 0, 
-                "color": ""
+                 
+                 
+                
             }, 
             "exponentformat": "B", 
             "showexponent": "all", 
@@ -1077,8 +1077,8 @@
         "yaxis": {
             "title": "Click to enter Y axis title", 
             "titlefont": {
-                "color": "", 
-                "family": "", 
+                 
+                 
                 "size": 0
             }, 
             "range": [
@@ -1105,9 +1105,9 @@
             "tickcolor": "#444", 
             "tickangle": "auto", 
             "tickfont": {
-                "family": "", 
-                "size": 0, 
-                "color": ""
+                 
+                 
+                
             }, 
             "exponentformat": "B", 
             "showexponent": "all", 
@@ -1126,9 +1126,9 @@
         "legend": {
             "traceorder": "normal", 
             "font": {
-                "family": "", 
-                "size": 0, 
-                "color": ""
+                 
+                 
+                
             }, 
             "bgcolor": "#fff", 
             "bordercolor": "#444", 
@@ -1142,9 +1142,9 @@
                 "yref": "paper", 
                 "text": "The date-formatted x-axis will increase it's time-resolution when you zoom.<br>Click-and-drag your mouse on the plot to see how it responds!", 
                 "font": {
-                    "family": "", 
-                    "size": 0, 
-                    "color": ""
+                     
+                     
+                    
                 }, 
                 "align": "center", 
                 "showarrow": false, 

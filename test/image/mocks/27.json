@@ -184,7 +184,7 @@
     "layout": {
         "title": "<b>Income inequality,by type of income measured,1979-2007</b>", 
         "titlefont": {
-            "color": "", 
+             
             "family": "Arial, sans-serif", 
             "size": 14
         }, 
@@ -200,7 +200,7 @@
         "xaxis": {
             "title": "<b>Source: </b>Andrew Fieldhouse, Economic Policy Institute, 6/14/2013", 
             "titlefont": {
-                "color": "", 
+                 
                 "family": "Arial, sans-serif", 
                 "size": 10
             }, 
@@ -228,9 +228,9 @@
             "tickcolor": "rgb(204, 204, 204)", 
             "tickangle": 0, 
             "tickfont": {
-                "family": "", 
-                "size": 0, 
-                "color": ""
+                 
+                 
+                
             }, 
             "exponentformat": "e", 
             "showexponent": "all", 
@@ -249,8 +249,8 @@
         "yaxis": {
             "title": "Gini Index", 
             "titlefont": {
-                "color": "", 
-                "family": "", 
+                 
+                 
                 "size": 0
             }, 
             "range": [
@@ -277,9 +277,9 @@
             "tickcolor": "#000", 
             "tickangle": 0, 
             "tickfont": {
-                "family": "", 
-                "size": 0, 
-                "color": ""
+                 
+                 
+                
             }, 
             "exponentformat": "e", 
             "showexponent": "all", 
@@ -300,9 +300,9 @@
             "y": 1.071535433070866, 
             "traceorder": "normal", 
             "font": {
-                "family": "", 
+                 
                 "size": 11, 
-                "color": ""
+                
             }, 
             "bgcolor": "rgba(255, 255, 255, 0)", 
             "bordercolor": "rgba(0, 0, 0, 0)", 
@@ -318,8 +318,8 @@
                 "yref": "y", 
                 "text": "Note: The Gini index is a commonly used measure of inequality.<br>0 is a perfectly equitable income distribution; 1 is perfectly inequitable.", 
                 "font": {
-                    "family": "", 
-                    "size": 0, 
+                     
+                     
                     "color": "rgb(102, 102, 102)"
                 }, 
                 "align": "left", 

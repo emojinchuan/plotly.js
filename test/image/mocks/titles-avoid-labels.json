@@ -64,14 +64,14 @@
             "zerolinecolor": "#444",
             "zerolinewidth": 1,
             "titlefont": {
-                "family": "",
-                "size": 0,
-                "color": ""
+                
+                
+                
             },
             "tickfont": {
-                "family": "",
-                "size": 0,
-                "color": ""
+                
+                
+                
             },
             "overlaying": false,
             "domain": [
@@ -113,14 +113,14 @@
             "zerolinecolor": "#444",
             "zerolinewidth": 1,
             "titlefont": {
-                "family": "",
-                "size": 0,
-                "color": ""
+                
+                
+                
             },
             "tickfont": {
-                "family": "",
+                
                 "size": 18,
-                "color": ""
+                
             },
             "overlaying": false,
             "domain": [
@@ -136,9 +136,9 @@
             "bordercolor": "#444",
             "borderwidth": 0,
             "font": {
-                "family": "",
-                "size": 0,
-                "color": ""
+                
+                
+                
             },
             "traceorder": "normal"
         },
@@ -167,9 +167,9 @@
             "color": "#444"
         },
         "titlefont": {
-            "family": "",
-            "size": 0,
-            "color": ""
+            
+            
+            
         },
         "dragmode": "zoom",
         "hovermode": "x",

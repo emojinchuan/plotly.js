@@ -68,8 +68,8 @@
     "layout": {
         "title": "Grouped Funnel Chart",
         "titlefont": {
-            "color": "",
-            "family": "",
+            
+            
             "size": 16
         },
         "font": {
@@ -84,8 +84,8 @@
         "xaxis": {
             "title": "Dose (mg)",
             "titlefont": {
-                "color": "",
-                "family": "",
+                
+                
                 "size": 16
             },
             "range": [
@@ -112,9 +112,9 @@
             "tickcolor": "#000",
             "tickangle": 0,
             "tickfont": {
-                "family": "",
+                
                 "size": 16,
-                "color": ""
+                
             },
             "exponentformat": "e",
             "showexponent": "all",
@@ -133,8 +133,8 @@
         "yaxis": {
             "title": "Length",
             "titlefont": {
-                "color": "",
-                "family": "",
+                
+                
                 "size": 16
             },
             "range": [
@@ -161,9 +161,9 @@
             "tickcolor": "#000",
             "tickangle": 0,
             "tickfont": {
-                "family": "",
+                
                 "size": 16,
-                "color": ""
+                
             },
             "exponentformat": "e",
             "showexponent": "all",
@@ -184,7 +184,7 @@
             "y": 0.9319072504424065,
             "traceorder": "normal",
             "font": {
-                "family": "",
+                
                 "size": 16,
                 "color": "rgb(0, 0, 0)"
             },
@@ -202,9 +202,9 @@
                 "yref": "paper",
                 "text": "<b>Supplement</b>",
                 "font": {
-                    "family": "",
+                    
                     "size": 18,
-                    "color": ""
+                    
                 },
                 "align": "center",
                 "showarrow": false,

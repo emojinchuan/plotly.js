@@ -99,8 +99,8 @@
     "layout": {
         "title": "Silicon Photovoltaics Learning Curve",
         "titlefont": {
-            "color": "",
-            "family": "",
+            
+            
             "size": 0
         },
         "font": {
@@ -115,8 +115,8 @@
         "xaxis": {
             "title": "Cumulative Production (GW)",
             "titlefont": {
-                "color": "",
-                "family": "",
+                
+                
                 "size": 0
             },
             "range": [
@@ -143,9 +143,9 @@
             "tickcolor": "#000",
             "tickangle": 0,
             "tickfont": {
-                "family": "",
-                "size": 0,
-                "color": ""
+                
+                
+                
             },
             "exponentformat": "power",
             "showexponent": "all",
@@ -164,8 +164,8 @@
         "yaxis": {
             "title": "Cost ($/W<sub>P</sub>)",
             "titlefont": {
-                "color": "",
-                "family": "",
+                
+                
                 "size": 0
             },
             "range": [
@@ -192,9 +192,9 @@
             "tickcolor": "#000",
             "tickangle": 0,
             "tickfont": {
-                "family": "",
-                "size": 0,
-                "color": ""
+                
+                
+                
             },
             "exponentformat": "power",
             "showexponent": "all",
@@ -215,9 +215,9 @@
             "y": 0.98,
             "traceorder": "normal",
             "font": {
-                "family": "",
-                "size": 0,
-                "color": ""
+                
+                
+                
             },
             "bgcolor": "#fff",
             "bordercolor": "#000",

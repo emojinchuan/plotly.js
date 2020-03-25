@@ -5525,7 +5525,7 @@
         "title": "iris", 
         "titlefont": {
             "color": "rgb(67,67,67)", 
-            "family": "", 
+             
             "size": 0
         }, 
         "font": {
@@ -5541,7 +5541,7 @@
             "title": "petal width", 
             "titlefont": {
                 "color": "rgb(67, 67, 67)", 
-                "family": "", 
+                 
                 "size": 0
             }, 
             "range": [
@@ -5568,8 +5568,8 @@
             "tickcolor": "#000", 
             "tickangle": "auto", 
             "tickfont": {
-                "family": "", 
-                "size": 0, 
+                 
+                 
                 "color": "rgb(102,102,102)"
             }, 
             "exponentformat": "e", 
@@ -5590,7 +5590,7 @@
             "title": "petal width", 
             "titlefont": {
                 "color": "rgb(67, 67, 67)", 
-                "family": "", 
+                 
                 "size": 0
             }, 
             "range": [
@@ -5617,8 +5617,8 @@
             "tickcolor": "#000", 
             "tickangle": "auto", 
             "tickfont": {
-                "family": "", 
-                "size": 0, 
+                 
+                 
                 "color": "rgb(102,102,102)"
             }, 
             "exponentformat": "e", 
@@ -5638,9 +5638,9 @@
         "legend": {
             "traceorder": "normal", 
             "font": {
-                "family": "", 
-                "size": 0, 
-                "color": ""
+                 
+                 
+                
             }, 
             "bgcolor": "#fff", 
             "bordercolor": "#000", 
@@ -5668,7 +5668,7 @@
             "title": "sepal width", 
             "titlefont": {
                 "color": "rgb(67, 67, 67)", 
-                "family": "", 
+                 
                 "size": 0
             }, 
             "range": [
@@ -5695,8 +5695,8 @@
             "tickcolor": "#000", 
             "tickangle": "auto", 
             "tickfont": {
-                "family": "", 
-                "size": 0, 
+                 
+                 
                 "color": "rgb(102,102,102)"
             }, 
             "exponentformat": "e", 
@@ -5717,7 +5717,7 @@
             "title": "sepal length", 
             "titlefont": {
                 "color": "rgb(67, 67, 67)", 
-                "family": "", 
+                 
                 "size": 0
             }, 
             "range": [
@@ -5744,8 +5744,8 @@
             "tickcolor": "#000", 
             "tickangle": "auto", 
             "tickfont": {
-                "family": "", 
-                "size": 0, 
+                 
+                 
                 "color": "rgb(102,102,102)"
             }, 
             "exponentformat": "e", 
@@ -5766,7 +5766,7 @@
             "title": "sepal length", 
             "titlefont": {
                 "color": "rgb(67, 67, 67)", 
-                "family": "", 
+                 
                 "size": 0
             }, 
             "range": [
@@ -5793,8 +5793,8 @@
             "tickcolor": "#000", 
             "tickangle": "auto", 
             "tickfont": {
-                "family": "", 
-                "size": 0, 
+                 
+                 
                 "color": "rgb(102,102,102)"
             }, 
             "exponentformat": "e", 
@@ -5815,7 +5815,7 @@
             "title": "sepal width", 
             "titlefont": {
                 "color": "rgb(67, 67, 67)", 
-                "family": "", 
+                 
                 "size": 0
             }, 
             "range": [
@@ -5842,8 +5842,8 @@
             "tickcolor": "#000", 
             "tickangle": "auto", 
             "tickfont": {
-                "family": "", 
-                "size": 0, 
+                 
+                 
                 "color": "rgb(102,102,102)"
             }, 
             "exponentformat": "e", 

@@ -34,8 +34,8 @@
     "layout": {
         "title": "Click to enter Plot title", 
         "titlefont": {
-            "color": "", 
-            "family": "", 
+             
+             
             "size": 0
         }, 
         "font": {
@@ -50,8 +50,8 @@
         "xaxis": {
             "title": "Click to enter X axis title", 
             "titlefont": {
-                "color": "", 
-                "family": "", 
+                 
+                 
                 "size": 0
             }, 
             "range": [
@@ -78,9 +78,9 @@
             "tickcolor": "#444", 
             "tickangle": "auto", 
             "tickfont": {
-                "family": "", 
-                "size": 0, 
-                "color": ""
+                 
+                 
+                
             }, 
             "exponentformat": "B", 
             "showexponent": "all", 
@@ -99,8 +99,8 @@
         "yaxis": {
             "title": "Click to enter Y axis title", 
             "titlefont": {
-                "color": "", 
-                "family": "", 
+                 
+                 
                 "size": 0
             }, 
             "range": [
@@ -127,9 +127,9 @@
             "tickcolor": "#444", 
             "tickangle": "auto", 
             "tickfont": {
-                "family": "", 
-                "size": 0, 
-                "color": ""
+                 
+                 
+                
             }, 
             "exponentformat": "B", 
             "showexponent": "all", 
@@ -150,9 +150,9 @@
             "y": 1, 
             "traceorder": "normal", 
             "font": {
-                "family": "", 
-                "size": 0, 
-                "color": ""
+                 
+                 
+                
             }, 
             "bgcolor": "#fff", 
             "bordercolor": "#444", 
@@ -181,8 +181,8 @@
         "yaxis2": {
             "title": "Click to enter Y2 axis title", 
             "titlefont": {
-                "color": "", 
-                "family": "", 
+                 
+                 
                 "size": 0
             }, 
             "range": [
@@ -209,9 +209,9 @@
             "tickcolor": "#444", 
             "tickangle": "auto", 
             "tickfont": {
-                "family": "", 
-                "size": 0, 
-                "color": ""
+                 
+                 
+                
             }, 
             "exponentformat": "B", 
             "showexponent": "all", 
@@ -230,8 +230,8 @@
         "xaxis2": {
             "title": "Click to enter X2 axis title", 
             "titlefont": {
-                "color": "", 
-                "family": "", 
+                 
+                 
                 "size": 0
             }, 
             "range": [
@@ -258,9 +258,9 @@
             "tickcolor": "#444", 
             "tickangle": "auto", 
             "tickfont": {
-                "family": "", 
-                "size": 0, 
-                "color": ""
+                 
+                 
+                
             }, 
             "exponentformat": "B", 
             "showexponent": "all", 
