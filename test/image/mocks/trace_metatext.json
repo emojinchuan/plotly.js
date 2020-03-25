@@ -37,12 +37,10 @@
       "global": "GrApH",
       "item": "mEtA"
     },
-
     "grid": {"rows": 3, "columns": 2, "xgap": 0.2, "ygap": 0.3},
     "width": 700,
     "height": 860,
     "margin": {"b": 100},
-
     "title": {"text": "%{meta.global} using trace %{meta.item}"},
     "xaxis": {
       "domain": {"row": 0, "column": 0},
@@ -95,7 +93,6 @@
         "z": 2
       }]
     },
-
     "annotations": [{
       "text": "<i>N.B.</i> --- %{data[0].meta.colname2}",
       "xref": "x",
@@ -103,7 +100,6 @@
       "x": "2019-02-10",
       "y": 2
     }],
-
     "updatemenus": [{
       "buttons": [{
         "label": "Btn-%{data[1].meta.radii}",
@@ -113,7 +109,6 @@
       "y": 1,
       "yanchor": "bottom"
     }],
-
     "sliders": [{
       "len": 0.3,
       "x": 0.7,

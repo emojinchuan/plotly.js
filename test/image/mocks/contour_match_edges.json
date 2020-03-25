@@ -7,7 +7,6 @@
          "visible":true,
          "marker":{
             "line":{
-
             }
          },
          "showlegend":true,
@@ -22,12 +21,10 @@
          "xaxis":"x",
          "type":"contour",
          "textfont":{
-
          },
          "autocontour":true,
          "showscale":false,
          "line":{
-
          },
          "autobiny":true,
          "autobinx":true,

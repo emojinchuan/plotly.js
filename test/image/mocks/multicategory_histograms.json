@@ -42,7 +42,6 @@
         "line": {"color": "black", "width": 1}
       }
     },
-
     {
       "type": "histogram2dcontour",
       "name": "hist2dcontour",

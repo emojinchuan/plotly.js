@@ -42,7 +42,6 @@
       "xaxis": "x4",
       "yaxis": "y4"
     },
-
     {
       "type": "contour",
       "name": "▲ x ▲ y (dup)",
@@ -90,7 +89,6 @@
   ],
   "layout": {
     "grid": {"rows": 4, "columns": 2, "pattern": "independent"},
-
     "template": {
       "data": {
         "contour": [{
@@ -98,14 +96,10 @@
         }]
       }
     },
-
     "xaxis6": {"autorange": "reversed"},
-
     "yaxis7": {"autorange": "reversed"},
-
     "xaxis8": {"autorange": "reversed"},
     "yaxis8": {"autorange": "reversed"},
-
     "width": 500,
     "height": 800
   }

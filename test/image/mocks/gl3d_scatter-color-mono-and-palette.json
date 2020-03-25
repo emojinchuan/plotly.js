@@ -65,8 +65,6 @@
       },
       "type":"scatter3d"
     }
-
-
   ],
   "layout": {
     "title": "Monochrome and palette based line plots",

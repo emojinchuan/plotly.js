@@ -31187,8 +31187,6 @@
     "layout": {
         "title": "A Century of Asteroid Flybys",
         "titlefont": {
-            
-            
             "size": 0
         },
         "font": {
@@ -31203,8 +31201,6 @@
         "xaxis": {
             "title": "Date<br>Data extracted from <a href='http://neo.jpl.nasa.gov/ca/'>JPL</a> on 2014-3-8 by <a href='http://www.alexharrisonparker.com'>Alex H. Parker</a>",
             "titlefont": {
-                
-                
                 "size": 0
             },
             "range": [
@@ -31231,9 +31227,6 @@
             "tickcolor": "black",
             "tickangle": "auto",
             "tickfont": {
-                
-                
-                
             },
             "exponentformat": "B",
             "showexponent": "all",
@@ -31252,8 +31245,6 @@
         "yaxis": {
             "title": "Nominal Flyby Distance (Earth Radii)",
             "titlefont": {
-                
-                
                 "size": 0
             },
             "range": [
@@ -31280,9 +31271,6 @@
             "tickcolor": "black",
             "tickangle": "auto",
             "tickfont": {
-                
-                
-                
             },
             "exponentformat": "B",
             "showexponent": "all",
@@ -31301,9 +31289,6 @@
         "legend": {
             "traceorder": "normal",
             "font": {
-                
-                
-                
             },
             "bgcolor": "#fff",
             "bordercolor": "#444",

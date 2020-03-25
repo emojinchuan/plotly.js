@@ -31,7 +31,6 @@
       "type": "linear",
       "tickprefix": "$",
       "ticksuffix": " million"
-
     },
     "height": 260,
     "width": 900,

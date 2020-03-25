@@ -91,7 +91,6 @@
   ],
   "layout": {
     "grid": {"rows": 3, "columns": 2, "pattern": "independent"},
-
     "template": {
       "data": {
         "contour": [{
@@ -99,7 +98,6 @@
         }]
       }
     },
-
     "width": 800,
     "height": 1200
   }

@@ -1120,7 +1120,6 @@
     "layout": {
         "title": "Stacked Bar Chart", 
         "titlefont": {
-             
             "family": "Arial, sans-serif", 
             "size": 0
         }, 
@@ -1136,7 +1135,6 @@
         "xaxis": {
             "title": "", 
             "titlefont": {
-                 
                 "family": "Arial, sans-serif", 
                 "size": 0
             }, 
@@ -1165,8 +1163,6 @@
             "tickangle": 0, 
             "tickfont": {
                 "family": "Arial, sans-serif", 
-                 
-                
             }, 
             "exponentformat": "e", 
             "showexponent": "all", 
@@ -1185,7 +1181,6 @@
         "yaxis": {
             "title": "", 
             "titlefont": {
-                 
                 "family": "Arial, sans-serif", 
                 "size": 0
             }, 
@@ -1214,8 +1209,6 @@
             "tickangle": 0, 
             "tickfont": {
                 "family": "Arial, sans-serif", 
-                 
-                
             }, 
             "exponentformat": "e", 
             "showexponent": "all", 
@@ -1237,8 +1230,6 @@
             "traceorder": "normal", 
             "font": {
                 "family": "Arial, sans-serif", 
-                 
-                
             }, 
             "bgcolor": "rgba(255, 255, 255, 0)", 
             "bordercolor": "rgba(0, 0, 0, 0)", 

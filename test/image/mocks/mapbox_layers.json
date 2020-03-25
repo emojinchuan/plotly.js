@@ -552,7 +552,6 @@
         }
       ]
     },
-
     "mapbox2": {
       "domain": {"x": [0.52, 1], "y": [0, 1]},
       "style": "mapbox://styles/mapbox/light-v10",

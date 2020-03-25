@@ -32,7 +32,6 @@
         [1.7, 2.9, 3.7]
       ],
       "cheaterslope": 1,
-
       "xaxis": "x2",
       "yaxis": "y2"
     },
@@ -43,7 +42,6 @@
       "mode": "markers+text",
       "a": [0.1, 0.15, 0.25, 0.3],
       "b": [1.5, 1.5, 1.5, 1.5],
-
       "text": ["a", "b", "c", "d"],
       "texttemplate": "%{text}: (%{a}, %{b})",
       "textposition": "top center",

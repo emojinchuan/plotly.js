@@ -21,9 +21,6 @@
     "layout": {
         "title": "Japanese font test for Kanji, Romaji, Katakana, and Hiragana",
         "titlefont": {
-            
-            
-            
         },
         "font": {
             "family": "\"Open sans\", verdana, arial, sans-serif",
@@ -37,9 +34,6 @@
         "xaxis": {
             "title": "Click to enter X axis title",
             "titlefont": {
-                
-                
-                
             },
             "range": [
                 0.9421558530724339,
@@ -66,9 +60,6 @@
             "tickcolor": "#444",
             "tickangle": "auto",
             "tickfont": {
-                
-                
-                
             },
             "exponentformat": "B",
             "showexponent": "all",
@@ -86,9 +77,6 @@
         "yaxis": {
             "title": "Click to enter Y axis title",
             "titlefont": {
-                
-                
-                
             },
             "range": [
                 0.9380292532717475,
@@ -115,9 +103,6 @@
             "tickcolor": "#444",
             "tickangle": "auto",
             "tickfont": {
-                
-                
-                
             },
             "exponentformat": "B",
             "showexponent": "all",
@@ -137,9 +122,6 @@
             "y": 1,
             "traceorder": "normal",
             "font": {
-                
-                
-                
             },
             "bgcolor": "#fff",
             "bordercolor": "#444",

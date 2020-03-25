@@ -724,8 +724,6 @@
     "layout": {
         "title": "Spectral<br>Box Plot",
         "titlefont": {
-            
-            
             "size": 18
         },
         "font": {
@@ -740,8 +738,6 @@
         "xaxis": {
             "title": "Wavelength (nm)",
             "titlefont": {
-                
-                
                 "size": 0
             },
             "range": [
@@ -768,9 +764,6 @@
             "tickcolor": "rgb(204, 204, 204)",
             "tickangle": 90,
             "tickfont": {
-                
-                
-                
             },
             "exponentformat": "e",
             "showexponent": "all",
@@ -789,8 +782,6 @@
         "yaxis": {
             "title": "Response (mV)",
             "titlefont": {
-                
-                
                 "size": 0
             },
             "range": [
@@ -817,9 +808,6 @@
             "tickcolor": "#000",
             "tickangle": 0,
             "tickfont": {
-                
-                
-                
             },
             "exponentformat": "none",
             "showexponent": "all",
@@ -840,9 +828,6 @@
             "y": 0.98,
             "traceorder": "normal",
             "font": {
-                
-                
-                
             },
             "bgcolor": "#fff",
             "bordercolor": "#000",

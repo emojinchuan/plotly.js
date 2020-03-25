@@ -34,7 +34,6 @@
       "xanchor": "center",
       "y": 1.1,
       "yanchor": "bottom"
-
     }, {
       "showarrow": false,
       "text": "branchvalues: <b>total</b>",
@@ -43,7 +42,6 @@
       "y": 1.1,
       "yanchor": "bottom"
     }],
-
     "paper_bgcolor": "#d3d3d3"
   }
 }

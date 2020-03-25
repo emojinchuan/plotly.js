@@ -2041,7 +2041,6 @@
           "thickness": 23.04,
           "tickfont": {
             "color": "rgba(0, 0, 0, 1)",
-            
             "size": 12.7521793275218
           },
           "ticklen": 2,
@@ -2063,7 +2062,6 @@
           "title": "value",
           "titlefont": {
             "color": "rgba(0, 0, 0, 1)",
-            
             "size": 15.9402241594022
           }
         },
@@ -3582,7 +3580,6 @@
   "layout": {
     "font": {
       "color": "rgba(0, 0, 0, 1)",
-      
       "size": 15.9402241594022
     },
     "hovermode": "closest",
@@ -3593,7 +3590,6 @@
       "borderwidth": 1.88976377952756,
       "font": {
         "color": "rgba(0, 0, 0, 1)",
-        
         "size": 12.7521793275218
       }
     },
@@ -3664,7 +3660,6 @@
       "tickcolor": "rgba(0, 0, 0, 1)",
       "tickfont": {
         "color": "rgba(0, 0, 0, 1)",
-        
         "size": 12.7521793275218
       },
       "ticklen": 3.98505603985056,
@@ -3699,7 +3694,6 @@
       "tickwidth": 0.66417600664176,
       "titlefont": {
         "color": "rgba(0, 0, 0, 1)",
-        
         "size": 15.9402241594022
       },
       "zeroline": false
@@ -3809,7 +3803,6 @@
       "tickcolor": "rgba(0, 0, 0, 1)",
       "tickfont": {
         "color": "rgba(0, 0, 0, 1)",
-        
         "size": 12.7521793275218
       },
       "ticklen": 3.98505603985056,
@@ -3886,7 +3879,6 @@
       "tickwidth": 0.66417600664176,
       "titlefont": {
         "color": "rgba(0, 0, 0, 1)",
-        
         "size": 15.9402241594022
       },
       "zeroline": false

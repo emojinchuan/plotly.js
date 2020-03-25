@@ -31,7 +31,6 @@
     "width": 700,
     "height": 800,
     "margin": {"b": 40},
-
     "title": {"text": "This graph is %{meta[2]}"},
     "xaxis": {
       "domain": {"row": 0, "column": 0},
@@ -83,7 +82,6 @@
         "z": 2
       }]
     },
-
     "annotations": [{
       "text": "<i>N.B.</i> %{meta[2]}",
       "xref": "x",
@@ -91,7 +89,6 @@
       "x": "2019-02-10",
       "y": 2
     }],
-
     "updatemenus": [{
       "buttons": [{
         "label": "Btn-%{meta[0]}",
@@ -101,7 +98,6 @@
       "y": 1,
       "yanchor": "bottom"
     }],
-
     "sliders": [{
       "steps": [{
         "label": "step-%{meta[0]}",

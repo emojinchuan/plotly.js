@@ -34,7 +34,6 @@
     "textposition": "top left",
     "subplot": "polar2"
   }],
-
   "layout": {
     "showlegend": false,
     "polar": {

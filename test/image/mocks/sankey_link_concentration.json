@@ -32,7 +32,6 @@
                     0, 10, 10, 10,
                     15, 5,
                     20
-
                 ],
                 "label": [
                     "elementA", "elementB", "elementC", "elementD",
@@ -62,10 +61,8 @@
                     "label": "elementD"
                   }
                 ],
-
                 "hovertemplate": "%{label}<br><b>flow.labelConcentration</b>: %{flow.labelConcentration:0.2%}<br><b>flow.concentration</b>: %{flow.concentration:0.2%}<br><b>flow.value</b>: %{flow.value}"
             }
-
         }],
     "layout": {
         "title": "Sankey diagram with links colored based on their concentration within a flow",

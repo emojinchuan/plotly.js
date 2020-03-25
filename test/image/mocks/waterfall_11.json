@@ -62,8 +62,6 @@
     "layout": {
         "title": "Grouped Waterfall Chart",
         "titlefont": {
-            
-            
             "size": 16
         },
         "font": {
@@ -78,8 +76,6 @@
         "xaxis": {
             "title": "Dose (mg)",
             "titlefont": {
-                
-                
                 "size": 16
             },
             "range": [
@@ -106,9 +102,7 @@
             "tickcolor": "#000",
             "tickangle": 0,
             "tickfont": {
-                
                 "size": 16,
-                
             },
             "exponentformat": "e",
             "showexponent": "all",
@@ -127,8 +121,6 @@
         "yaxis": {
             "title": "Length",
             "titlefont": {
-                
-                
                 "size": 16
             },
             "range": [
@@ -155,9 +147,7 @@
             "tickcolor": "#000",
             "tickangle": 0,
             "tickfont": {
-                
                 "size": 16,
-                
             },
             "exponentformat": "e",
             "showexponent": "all",
@@ -178,7 +168,6 @@
             "y": 0.9319072504424065,
             "traceorder": "normal",
             "font": {
-                
                 "size": 16,
                 "color": "rgb(0, 0, 0)"
             },
@@ -196,9 +185,7 @@
                 "yref": "paper",
                 "text": "<b>Supplement</b>",
                 "font": {
-                    
                     "size": 18,
-                    
                 },
                 "align": "center",
                 "showarrow": false,

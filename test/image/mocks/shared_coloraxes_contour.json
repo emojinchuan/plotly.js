@@ -31,7 +31,6 @@
     "contours": {"coloring": "heatmap"},
     "coloraxis": "coloraxis"
   },
-
   {
     "name": "contour 1 - coloraxis 2",
     "type": "contour",
@@ -41,7 +40,6 @@
     "xaxis": "x2",
     "yaxis": "y2"
   }, {
-
     "name": "contour 2 - coloraxis 2",
     "type": "contour",
     "x": [2, 3],
@@ -50,7 +48,6 @@
     "xaxis": "x2",
     "yaxis": "y2"
   },
-
   {
     "name": "contour coloring:lines - coloraxis 3",
     "type": "contour",
@@ -62,7 +59,6 @@
     "xaxis": "x3",
     "yaxis": "y3"
   }, {
-
     "name": "contour coloring:lines 2 - coloraxis 3",
     "type": "contour",
     "x": [2, 3],
@@ -73,7 +69,6 @@
     "xaxis": "x3",
     "yaxis": "y3"
   },
-
   {
     "name": "contour coloring:heatmap edge case - coloraxis 4",
     "type": "contour",
@@ -99,11 +94,9 @@
     "xaxis": "x4",
     "yaxis": "y4"
   }],
-
   "layout": {
     "showlegend": false,
     "grid": {"rows": 2, "columns": 2, "pattern": "independent"},
-
     "coloraxis": {
       "colorbar": {
         "len": 0.5,

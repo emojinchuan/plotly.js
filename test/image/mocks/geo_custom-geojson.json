@@ -31,7 +31,6 @@
       "showscale": false,
       "geojson": "https://raw.githubusercontent.com/python-visualization/folium/master/examples/data/us-states.json"
     },
-
     {
       "type": "choropleth",
       "name": "choropleth + RAW",

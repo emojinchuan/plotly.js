@@ -871,7 +871,6 @@
     "layout": {
         "title": "<br><b>Average effective tax rates, by income percentiles, 1960-2004</b>", 
         "titlefont": {
-             
             "family": "Arial, sans-serif", 
             "size": 14
         }, 
@@ -888,7 +887,6 @@
             "title": "Note: Data are for cash income. Source: Piketty and Saez (2007)", 
             "titlefont": {
                 "color": "rgb(102, 102, 102)", 
-                 
                 "size": 11
             }, 
             "range": [
@@ -915,9 +913,6 @@
             "tickcolor": "#000", 
             "tickangle": 0, 
             "tickfont": {
-                 
-                 
-                
             }, 
             "exponentformat": "e", 
             "showexponent": "all", 
@@ -936,8 +931,6 @@
         "yaxis": {
             "title": "Tax Rate (%)", 
             "titlefont": {
-                 
-                 
                 "size": 0
             }, 
             "range": [
@@ -964,9 +957,6 @@
             "tickcolor": "#000", 
             "tickangle": 0, 
             "tickfont": {
-                 
-                 
-                
             }, 
             "exponentformat": "e", 
             "showexponent": "all", 
@@ -987,9 +977,6 @@
             "y": 0.9689655172413794, 
             "traceorder": "normal", 
             "font": {
-                 
-                 
-                
             }, 
             "bgcolor": "rgba(255, 255, 255, 0)", 
             "bordercolor": "rgba(255, 255, 255, 0)", 

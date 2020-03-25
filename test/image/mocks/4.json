@@ -406,8 +406,6 @@
     "layout": {
         "title": "Simple Heatmap", 
         "titlefont": {
-             
-             
             "size": 0
         }, 
         "font": {
@@ -421,8 +419,6 @@
         "xaxis": {
             "title": "", 
             "titlefont": {
-                 
-                 
                 "size": 0
             }, 
             "range": [
@@ -449,9 +445,6 @@
             "tickcolor": "#000", 
             "tickangle": 0, 
             "tickfont": {
-                 
-                 
-                
             }, 
             "exponentformat": "e", 
             "showexponent": "all", 
@@ -470,8 +463,6 @@
         "yaxis": {
             "title": "", 
             "titlefont": {
-                 
-                 
                 "size": 0
             }, 
             "range": [
@@ -498,9 +489,6 @@
             "tickcolor": "#000", 
             "tickangle": 0, 
             "tickfont": {
-                 
-                 
-                
             }, 
             "exponentformat": "e", 
             "showexponent": "all", 
@@ -519,9 +507,6 @@
         "legend": {
             "traceorder": "normal", 
             "font": {
-                 
-                 
-                
             }, 
             "bgcolor": "#fff", 
             "bordercolor": "#000", 

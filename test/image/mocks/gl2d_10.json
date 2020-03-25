@@ -38,8 +38,6 @@
     "layout": {
         "title": "Math Score Box Plots",
         "titlefont": {
-            
-            
             "size": 16
         },
         "font": {
@@ -54,8 +52,6 @@
         "xaxis": {
             "title": "",
             "titlefont": {
-                
-                
                 "size": 0
             },
             "range": [
@@ -82,9 +78,6 @@
             "tickcolor": "#000",
             "tickangle": 0,
             "tickfont": {
-                
-                
-                
             },
             "exponentformat": "e",
             "showexponent": "all",
@@ -103,8 +96,6 @@
         "yaxis": {
             "title": "Score",
             "titlefont": {
-                
-                
                 "size": 0
             },
             "range": [
@@ -131,9 +122,6 @@
             "tickcolor": "#000",
             "tickangle": 0,
             "tickfont": {
-                
-                
-                
             },
             "exponentformat": "e",
             "showexponent": "all",
@@ -154,8 +142,6 @@
             "y": 1.0189344262295081,
             "traceorder": "normal",
             "font": {
-                
-                
                 "color": "rgb(67, 67, 67)"
             },
             "bgcolor": "rgba(255, 255, 255, 0)",

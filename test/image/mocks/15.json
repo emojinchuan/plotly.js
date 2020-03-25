@@ -406,8 +406,6 @@
     "layout": {
         "title": "World Primary Power Consumption",
         "titlefont": {
-            
-            
             "size": 0
         },
         "font": {
@@ -422,8 +420,6 @@
         "xaxis": {
             "title": "Year",
             "titlefont": {
-                
-                
                 "size": 0
             },
             "range": [
@@ -450,9 +446,6 @@
             "tickcolor": "rgb(0, 0, 0)",
             "tickangle": 0,
             "tickfont": {
-                
-                
-                
             },
             "exponentformat": "e",
             "showexponent": "all",
@@ -471,8 +464,6 @@
         "yaxis": {
             "title": "Power (GW)",
             "titlefont": {
-                
-                
                 "size": 0
             },
             "range": [
@@ -499,9 +490,6 @@
             "tickcolor": "rgb(255, 255, 255)",
             "tickangle": 0,
             "tickfont": {
-                
-                
-                
             },
             "exponentformat": "e",
             "showexponent": "all",
@@ -522,9 +510,6 @@
             "y": 0.5037179079816982,
             "traceorder": "reversed",
             "font": {
-                
-                
-                
             },
             "bgcolor": "rgba(217, 217, 217, 0)",
             "bordercolor": "rgba(204, 204, 204, 0)",

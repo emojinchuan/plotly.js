@@ -124,7 +124,6 @@
             "x": "a", "y": "X",
             "xanchor": "right", "borderpad": 10
         },
-
         {
             "xref": "x2", "yref": "y2", "showarrow": false,
             "text": "should not see this",
@@ -139,7 +138,6 @@
             "text": "invalid category coords<br>should appear in center of graph",
             "x": "wrong", "y": "not-gonna-work"
         },
-
         {
             "xref": "x3", "yref": "y3", "axref": "x3", "ayref": "y3",
             "text": "yrange bump",
@@ -151,7 +149,6 @@
             "x": -2, "y": 2,
             "xanchor": "left", "borderpad": 10
         },
-
         {
             "xref": "x4", "yref": "y4", "showarrow": false,
             "text": "should not see this",
@@ -167,7 +164,6 @@
             "x0": "b", "x1": "d",
             "y0": "W", "y1": "Z"
         },
-
         {
             "xref": "x2", "yref": "y2",
             "type": "rectangle",
@@ -175,7 +171,6 @@
             "x0": "---", "x1": "d",
             "y0": "wrong", "y1": "Z"
         },
-
         {
             "xref": "x3", "yref": "y3",
             "type": "rectangle",
@@ -183,7 +178,6 @@
             "x0": 0.25, "x1": 6,
             "y0": 1, "y1": 2.75
         },
-
         {
             "xref": "x4", "yref": "y4",
             "type": "rectangle",

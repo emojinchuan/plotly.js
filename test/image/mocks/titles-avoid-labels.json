@@ -64,14 +64,8 @@
             "zerolinecolor": "#444",
             "zerolinewidth": 1,
             "titlefont": {
-                
-                
-                
             },
             "tickfont": {
-                
-                
-                
             },
             "overlaying": false,
             "domain": [
@@ -113,14 +107,9 @@
             "zerolinecolor": "#444",
             "zerolinewidth": 1,
             "titlefont": {
-                
-                
-                
             },
             "tickfont": {
-                
                 "size": 18,
-                
             },
             "overlaying": false,
             "domain": [
@@ -136,9 +125,6 @@
             "bordercolor": "#444",
             "borderwidth": 0,
             "font": {
-                
-                
-                
             },
             "traceorder": "normal"
         },
@@ -167,9 +153,6 @@
             "color": "#444"
         },
         "titlefont": {
-            
-            
-            
         },
         "dragmode": "zoom",
         "hovermode": "x",

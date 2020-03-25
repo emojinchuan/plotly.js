@@ -34,7 +34,6 @@
       },
       "line": {"color": "#66c2a5"}
     },
-
     {
       "type": "carpet",
       "carpet": "mycarpetplot2",
@@ -70,7 +69,6 @@
       },
       "line": {"color": "#fc8d62"}
     },
-
     {
       "type": "carpet",
       "carpet": "mycarpetplot3",
@@ -106,7 +104,6 @@
       },
       "line": {"color": "#8da0cb"}
     },
-
     {
       "type": "carpet",
       "carpet": "mycarpetplot-nosmooth",
@@ -145,7 +142,6 @@
       "line": {"color": "#66c2a5", "smoothing": 0},
       "showlegend": false
     },
-
     {
       "type": "carpet",
       "carpet": "mycarpetplot2-nosmooth",
@@ -185,7 +181,6 @@
       "line": {"color": "#fc8d62", "smoothing": 0},
       "showlegend": false
     },
-
     {
       "type": "carpet",
       "carpet": "mycarpetplot3-nosmooth",

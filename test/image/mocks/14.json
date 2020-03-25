@@ -99,8 +99,6 @@
     "layout": {
         "title": "Silicon Photovoltaics Learning Curve",
         "titlefont": {
-            
-            
             "size": 0
         },
         "font": {
@@ -115,8 +113,6 @@
         "xaxis": {
             "title": "Cumulative Production (GW)",
             "titlefont": {
-                
-                
                 "size": 0
             },
             "range": [
@@ -143,9 +139,6 @@
             "tickcolor": "#000",
             "tickangle": 0,
             "tickfont": {
-                
-                
-                
             },
             "exponentformat": "power",
             "showexponent": "all",
@@ -164,8 +157,6 @@
         "yaxis": {
             "title": "Cost ($/W<sub>P</sub>)",
             "titlefont": {
-                
-                
                 "size": 0
             },
             "range": [
@@ -192,9 +183,6 @@
             "tickcolor": "#000",
             "tickangle": 0,
             "tickfont": {
-                
-                
-                
             },
             "exponentformat": "power",
             "showexponent": "all",
@@ -215,9 +203,6 @@
             "y": 0.98,
             "traceorder": "normal",
             "font": {
-                
-                
-                
             },
             "bgcolor": "#fff",
             "bordercolor": "#000",
@@ -231,9 +216,6 @@
                 "yref": "y",
                 "text": "2008",
                 "font": {
-                    
-                    
-                    
                 },
                 "align": "center",
                 "showarrow": true,
@@ -262,9 +244,6 @@
                 "yref": "y",
                 "text": "2000",
                 "font": {
-                    
-                    
-                    
                 },
                 "align": "center",
                 "showarrow": true,
@@ -293,9 +272,6 @@
                 "yref": "y",
                 "text": "2011",
                 "font": {
-                    
-                    
-                    
                 },
                 "align": "center",
                 "showarrow": true,
@@ -324,9 +300,6 @@
                 "yref": "y",
                 "text": "1990",
                 "font": {
-                    
-                    
-                    
                 },
                 "align": "center",
                 "showarrow": true,
@@ -355,9 +328,6 @@
                 "yref": "y",
                 "text": "1975",
                 "font": {
-                    
-                    
-                    
                 },
                 "align": "center",
                 "showarrow": true,
@@ -386,9 +356,6 @@
                 "yref": "y",
                 "text": "1980",
                 "font": {
-                    
-                    
-                    
                 },
                 "align": "center",
                 "showarrow": true,

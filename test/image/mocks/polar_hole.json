@@ -9,7 +9,6 @@
         "r": [10, 12, 15],
         "theta0": 90
     },
-
     {
         "type": "scatterpolar",
         "subplot": "polar2",
@@ -21,7 +20,6 @@
         "subplot": "polar2",
         "r": [100, 50, 200]
     },
-
     {
         "type": "barpolar",
         "subplot": "polar3",
@@ -32,7 +30,6 @@
         "subplot": "polar3",
         "theta": ["a", "b", "c", "d", "b", "f", "a", "a"]
     },
-
     {
         "type": "barpolar",
         "subplot": "polar4",
@@ -46,7 +43,6 @@
         "cliponaxis": true,
         "marker": {"size": 20}
     },
-
     {
         "type": "barpolar",
         "subplot": "polar5",

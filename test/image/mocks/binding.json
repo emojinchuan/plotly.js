@@ -42,17 +42,14 @@
       "currentvalue": {
         "visible": false
       },
-
       "transition": {
         "duration": 150,
         "easing": "cubic-in-out"
       },
-
       "pad": {
         "r": 20,
         "t": 40
       },
-
       "font": {}
     }],
     "updatemenus": [{

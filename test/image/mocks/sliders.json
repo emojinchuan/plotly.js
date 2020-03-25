@@ -42,17 +42,14 @@
       "currentvalue": {
         "visible": false
       },
-
       "transition": {
         "duration": 150,
         "easing": "cubic-in-out"
       },
-
       "pad": {
         "r": 20,
         "t": 60
       },
-
       "font": {}
     }, {
       "active": 4,
@@ -124,17 +121,14 @@
       "xanchor": "left",
       "y": -0.1,
       "yanchor": "top",
-
       "transition": {
         "duration": 150,
         "easing": "cubic-in-out"
       },
-
       "pad": {
         "l": 20,
         "t": 20
       },
-
       "bgcolor": "red",
       "bordercolor": "blue",
       "borderwidth": 2,
@@ -143,7 +137,6 @@
       "tickcolor": "purple",
       "minorticklen": 10,
       "tickwidth": 2,
-
       "font": {
         "color": "purple",
         "size": 15

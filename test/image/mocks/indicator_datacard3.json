@@ -20,7 +20,6 @@
       "delta": {"position": "bottom"},
       "align": "left"
   },
-
   {
       "type": "indicator",
       "domain": {"row": 1, "column": 0},
@@ -42,7 +41,6 @@
       "delta": {"position": "bottom"},
       "align": "center"
   },
-
   {
       "type": "indicator",
       "domain": {"row": 2, "column": 0},

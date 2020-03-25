@@ -7,7 +7,6 @@
             "mode" : "lines+markers",
             "name" : "Same X-points scattergl"
         },
-
         {
             "x" : [ 21, 21 ],
             "y" : [ 40, 30 ],
@@ -15,7 +14,6 @@
             "mode" : "lines+markers",
             "name" : "Same X-points scatter"
         },
-
         {
             "x" : [ 25, 30 ],
             "y" : [ 25, 30 ],
@@ -23,7 +21,6 @@
             "mode" : "lines+markers",
             "name" : "All Different scattergl"
         },
-
         {
             "x" : [ 25, 30 ],
             "y" : [ 30, 35 ],
@@ -31,7 +28,6 @@
             "mode" : "lines+markers",
             "name" : "All Different scatter"
         },
-
         {
             "x" : [ 15, 20 ],
             "y" : [ 23, 23 ],
@@ -39,7 +35,6 @@
             "mode" : "lines+markers",
             "name" : "Same Y-points scattergl"
         },
-
         {
             "x" : [ 15, 20 ],
             "y" : [ 25, 25 ],

@@ -594,8 +594,6 @@
     "layout": {
         "title": "NumPy Boxes", 
         "titlefont": {
-             
-             
             "size": 0
         }, 
         "font": {
@@ -610,8 +608,6 @@
         "xaxis": {
             "title": "Click to enter X axis title", 
             "titlefont": {
-                 
-                 
                 "size": 0
             }, 
             "range": [
@@ -638,9 +634,6 @@
             "tickcolor": "#444", 
             "tickangle": "auto", 
             "tickfont": {
-                 
-                 
-                
             }, 
             "exponentformat": "B", 
             "showexponent": "all", 
@@ -659,8 +652,6 @@
         "yaxis": {
             "title": "Click to enter Y axis title", 
             "titlefont": {
-                 
-                 
                 "size": 0
             }, 
             "range": [
@@ -687,9 +678,6 @@
             "tickcolor": "#444", 
             "tickangle": "auto", 
             "tickfont": {
-                 
-                 
-                
             }, 
             "exponentformat": "B", 
             "showexponent": "all", 
@@ -708,9 +696,6 @@
         "legend": {
             "traceorder": "normal", 
             "font": {
-                 
-                 
-                
             }, 
             "bgcolor": "#fff", 
             "bordercolor": "#444", 

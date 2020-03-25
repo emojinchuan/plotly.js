@@ -6,16 +6,12 @@
       "size": 15
     }
   },
-
   "data": [{
-
     "type": "parcoords",
-
     "domain": {
       "x": [0.2, 0.9],
       "y": [0.2, 0.7]
     },
-
     "labelfont": {
       "color": "red",
       "size": 20
@@ -26,7 +22,6 @@
     "rangefont": {
       "color": "green"
     },
-
     "line": {
       "showscale": true,
       "reversescale": true,
@@ -38,7 +33,6 @@
         "x": 1.1
       }
     },
-
     "dimensions": [
       {
         "constraintrange": [200, 700],
